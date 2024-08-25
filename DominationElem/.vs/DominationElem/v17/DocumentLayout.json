@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iovch\\source\\repos\\DominationElem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C852A5E-151D-4FF1-9995-0FCCBF8FF99F}|DominationElem\\DominationElem.vcxproj|C:\\Users\\iovch\\source\\repos\\DominationElem\\DominationElem\\DominationElem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C852A5E-151D-4FF1-9995-0FCCBF8FF99F}|DominationElem\\DominationElem.vcxproj|solutionrelative:DominationElem\\DominationElem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DominationElem.cpp",
+              "DocumentMoniker": "C:\\Users\\iovch\\source\\repos\\DominationElem\\DominationElem\\DominationElem.cpp",
+              "RelativeDocumentMoniker": "DominationElem\\DominationElem.cpp",
+              "ToolTip": "C:\\Users\\iovch\\source\\repos\\DominationElem\\DominationElem\\DominationElem.cpp",
+              "RelativeToolTip": "DominationElem\\DominationElem.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T17:42:19.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

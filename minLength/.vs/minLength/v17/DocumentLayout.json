@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iovch\\source\\repos\\minLength\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{579AAA9B-0DCB-424D-B78B-C105FE07BE94}|minLength\\minLength.vcxproj|C:\\Users\\iovch\\source\\repos\\minLength\\minLength\\minLength.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{579AAA9B-0DCB-424D-B78B-C105FE07BE94}|minLength\\minLength.vcxproj|solutionrelative:minLength\\minLength.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "minLength.cpp",
+              "DocumentMoniker": "C:\\Users\\iovch\\source\\repos\\minLength\\minLength\\minLength.cpp",
+              "RelativeDocumentMoniker": "minLength\\minLength.cpp",
+              "ToolTip": "C:\\Users\\iovch\\source\\repos\\minLength\\minLength\\minLength.cpp",
+              "RelativeToolTip": "minLength\\minLength.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T15:11:19.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

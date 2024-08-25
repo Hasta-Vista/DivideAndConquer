@@ -1,0 +1,3 @@
+﻿  NearestPoints.cpp
+C:\Users\iovch\source\repos\NearestPoints\NearestPoints\NearestPoints.cpp(24,1): warning C4715: MinDist: значение возвращается не при всех путях выполнения
+  NearestPoints.vcxproj -> C:\Users\iovch\source\repos\NearestPoints\x64\Debug\NearestPoints.exe

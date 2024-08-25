@@ -1,0 +1,3 @@
+﻿  Entrance.cpp
+C:\Users\iovch\source\repos\Entrance\Entrance\Entrance.cpp(26,15): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  Entrance.vcxproj -> C:\Users\iovch\source\repos\Entrance\x64\Debug\Entrance.exe

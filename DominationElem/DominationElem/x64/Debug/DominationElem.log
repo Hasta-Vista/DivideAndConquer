@@ -1,0 +1,3 @@
+﻿  DominationElem.cpp
+C:\Users\iovch\source\repos\DominationElem\DominationElem\DominationElem.cpp(18,16): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  DominationElem.vcxproj -> C:\Users\iovch\source\repos\DominationElem\x64\Debug\DominationElem.exe
